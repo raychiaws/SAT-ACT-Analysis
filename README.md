@@ -1,4 +1,5 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: Act and Sat Analysis
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) &nbsp; Project 1: Act and Sat Analysis
+
 ## Problem Statement
 There has been a change in SAT and ACT participation rates in the of year 2017 and 2018. This project aims to make a recommendations to improve participation rates in SAT test. The ultimate outcome is to find solutions/recommendations to overtake ACTS participation rate and gain market share.
 
